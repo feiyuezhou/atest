@@ -1,6 +1,6 @@
 Example Git repository
 ======================
-
+test
 This repository shall explain the Git data model
 
 Master
